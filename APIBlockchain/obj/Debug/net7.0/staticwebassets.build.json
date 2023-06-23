@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e8ifpyoI0nMqtBZ5aKK2MoHzXQEwbLfZP0sJiBtH7zU=",
+  "Source": "API_Blockchain",
+  "BasePath": "_content/API_Blockchain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
